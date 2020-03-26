@@ -1,4 +1,4 @@
-# Curso de srpign udemy 1
+# Curso de Spring framework udemy 1
 
 [Curso](https://www.udemy.com/course/spring-framework-5) - Link al curso en la plataforma udemy
 
